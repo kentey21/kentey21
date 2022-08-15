@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kentey21
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Ken
+- 👀 I’m new in programming, as I started as a mechanical engineer
 - 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me ...
 
 <!---
